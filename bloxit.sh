@@ -4,7 +4,6 @@ apt install curl -y
 curl -fsSL https://get.docker.com -o get-docker.sh
 sh get-docker.sh
 usermod -aG docker your-user
-echo "docker has been installed"
 mkdir BloxOne
 cd BloxOne
 wget http://ib-noa-prod.csp.infoblox.com.s3-website-us-east-1.amazonaws.com/BloxOne_OnPrem_Docker_2.0.11.tar.gz

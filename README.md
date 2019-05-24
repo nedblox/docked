@@ -17,3 +17,5 @@ cd docked/
 4. run the bloxit.sh script by passing the API access key to it as an argument
 
 sudo sh bloxit.sh API-ACCESS-KEY
+
+5. Recommended to logout/reboot and then log back in, to use Docker as a non-root user

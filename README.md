@@ -9,7 +9,7 @@ Steps:
 2. Install git and pull the script
 
   sudo apt install git -y
-  git clone 
+  git clone https://github.com/nedblox/docked.git
 
 3. Change into the "docked" folder
 
